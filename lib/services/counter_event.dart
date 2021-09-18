@@ -1,0 +1,1 @@
+enum counterEvent{ ADD,RESET}
